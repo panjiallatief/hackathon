@@ -1,0 +1,13 @@
+{
+  "level": [
+    "publik",
+    "internal",
+    "terbatas",
+    "rahasia",
+    "pribadi"
+  ],
+  "peran_data_pribadi": [
+    "HR"
+  ],
+  "jumlah_hasil_maks": 6
+}
